@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 
 public class Main {
-    public static final int MAX_PASSWORD = 999;
+    public static final int MAX_PASSWORD = 9999;
 
     public static void main(String[] args) {
         // randomly generate a password
